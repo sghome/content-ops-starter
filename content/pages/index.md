@@ -13,7 +13,7 @@ sections:
       obras civiles y arquitectónicas.
 
     actions:
-      - label: Empec
+      - label: Solicitar Cotización
         altText: ''
         url: /
         showIcon: false
