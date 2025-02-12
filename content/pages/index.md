@@ -129,6 +129,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: Industrial
     actions:
       - label: Get started
         altText: ''
