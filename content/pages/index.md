@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/thisisengineering-hoivM01c-vg-unsplash.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
