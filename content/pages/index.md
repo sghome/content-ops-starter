@@ -53,7 +53,7 @@ sections:
     subtitle: Descubra algunos de nuestros proyectos más destacados
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Centro Comercial Moderno
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
