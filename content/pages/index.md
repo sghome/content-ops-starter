@@ -108,10 +108,10 @@ sections:
         tagline: Residencial
       - title: Industrial
         subtitle: Parque Industrial
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Centro logístico y de manufactura con instalaciones de última
+          generación y certificación ambiental.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
