@@ -55,10 +55,9 @@ sections:
       - type: FeaturedItem
         title: Comercial
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Desarrollo de un centro comercial de última generación con más de 100
+          locales comerciales, área de entretenimiento y restaurantes.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
