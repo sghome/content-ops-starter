@@ -7,7 +7,7 @@ sections:
       text: Construyendo el Futurocon Excelencia
       color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Especialistas en consultoría, diseño, construcción y mantenimiento de
       obras civiles y arquitectónicas.
