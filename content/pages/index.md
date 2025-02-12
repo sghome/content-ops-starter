@@ -13,7 +13,7 @@ sections:
       obras civiles y arquitectónicas.
 
     actions:
-      - label: Get started
+      - label: Empec
         altText: ''
         url: /
         showIcon: false
