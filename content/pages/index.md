@@ -228,11 +228,31 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Nos especializamos en consultoría, diseño, construcción y mantenimiento de
+      obras civiles y arquitectónicas, garantizando soluciones integrales para
+      cada cliente.
+
+
+
+
+      **Consultoría y Planificación**: Asesoría experta en el desarrollo de
+      proyectos de construcción, desde estudios de viabilidad hasta ejecución.
+
+
+      **Diseño Arquitectónico**: Creación de espacios funcionales y
+      estéticamente impactantes con tecnología de vanguardia.
+
+
+      **Construcción de Obras Civiles**: Edificaciones residenciales,
+      comerciales e industriales con los más altos estándares de calidad.
+
+
+      **Mantenimiento y Remodelación**: Soluciones eficientes para conservar y
+      mejorar infraestructuras existentes.
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
