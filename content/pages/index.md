@@ -82,7 +82,7 @@ sections:
               borderRadius: x-large
         tagline: Comercial
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Conjunto Residencial
         text: >
           Complejo residencial de lujo con apartamentos modernos, áreas comunes
           y zonas verdes integradas.
