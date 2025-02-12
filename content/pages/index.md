@@ -131,7 +131,7 @@ sections:
         type: FeaturedItem
         tagline: Industrial
     actions:
-      - label: Get started
+      - label: Información
         altText: ''
         url: /
         showIcon: false
