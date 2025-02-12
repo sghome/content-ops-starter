@@ -81,7 +81,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: Comercial
-      - title: 20x
+      - title: Residencial
         subtitle: Conjunto Residencial
         text: >
           Complejo residencial de lujo con apartamentos modernos, áreas comunes
