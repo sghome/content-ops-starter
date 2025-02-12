@@ -254,7 +254,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Beneficios Claves
+      label: Servicios
       color: text-primary
       styles:
         self:
