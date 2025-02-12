@@ -53,7 +53,7 @@ sections:
     subtitle: Descubra algunos de nuestros proyectos más destacados
     items:
       - type: FeaturedItem
-        title: Comercial
+        title: Centro Comercial Moderno
         subtitle: Numbers Done
         text: >
           Desarrollo de un centro comercial de última generación con más de 100
