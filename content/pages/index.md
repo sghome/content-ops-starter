@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Centro Comercial Moderno
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Desarrollo de un centro comercial de última generación con más de 100
           locales comerciales, área de entretenimiento y restaurantes.
