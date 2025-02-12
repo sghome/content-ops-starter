@@ -107,7 +107,7 @@ sections:
         type: FeaturedItem
         tagline: Residencial
       - title: Parque Industrial
-        subtitle: Parque Industrial
+        subtitle: ''
         text: >+
           Centro logístico y de manufactura con instalaciones de última
           generación y certificación ambiental.
