@@ -255,7 +255,8 @@ sections:
 
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://videos.pexels.com/video-files/2835998/2835998-uhd_2560_1440_24fps.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
