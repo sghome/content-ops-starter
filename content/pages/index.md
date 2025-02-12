@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Construyendo el Futurocon Excelencia
+      text: Construyendo el Futuro con Excelencia
       color: text-primary
       type: TitleBlock
     subtitle: ''
