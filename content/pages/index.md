@@ -80,7 +80,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: Centro Comercial Moderno
+        tagline: Comercial
       - title: 20x
         subtitle: The Job Stuff
         text: >-
