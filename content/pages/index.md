@@ -105,7 +105,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        tagline: Conjunto Residencial
+        tagline: Residencial
       - title: Industrial
         subtitle: Parque Industrial
         text: >-
