@@ -62,7 +62,7 @@ sections:
             borderWidth: 0
             borderStyle: none
             borderColor: border-light
-    variant: dots-nav
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
