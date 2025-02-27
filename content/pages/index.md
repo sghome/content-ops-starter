@@ -57,6 +57,7 @@ sections:
             borderRadius: none
             flexDirection: row
             justifyContent: center
+            borderWidth: 0
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
