@@ -56,7 +56,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: none
+            borderRadius: large
             flexDirection: row
             justifyContent: center
             borderWidth: 0
