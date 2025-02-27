@@ -16,7 +16,7 @@ sections:
           altText: Maria Walters
           styles:
             self:
-              borderRadius: full
+              borderRadius: none
               borderWidth: 0
               borderStyle: none
         actions: []
