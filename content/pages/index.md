@@ -44,6 +44,7 @@ sections:
           styles:
             self:
               borderRadius: full
+              borderWidth: 0
         actions: []
         colors: bg-dark-fg-light
         styles:
