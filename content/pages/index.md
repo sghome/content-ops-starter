@@ -61,6 +61,7 @@ sections:
             justifyContent: center
             borderWidth: 0
             borderStyle: none
+            borderColor: border-light
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
