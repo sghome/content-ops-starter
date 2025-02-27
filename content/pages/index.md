@@ -16,7 +16,7 @@ sections:
           altText: Maria Walters
           styles:
             self:
-              borderRadius: large
+              borderRadius: full
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
