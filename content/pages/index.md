@@ -77,7 +77,7 @@ sections:
     subtitle: ''
     text: >
       Especialistas en consultoría, diseño, construcción y mantenimiento de
-      obras civiles y arquitectónicas
+      obras civiles y arquitectónicas.
     actions:
       - label: Solicitar Cotización
         altText: ''
