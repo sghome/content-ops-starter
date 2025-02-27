@@ -39,7 +39,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/g1278.png
           altText: Jane Doe
           styles:
             self:
