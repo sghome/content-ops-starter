@@ -43,7 +43,7 @@ sections:
           altText: Jane Doe
           styles:
             self:
-              borderRadius: full
+              borderRadius: none
               borderWidth: 0
               borderStyle: none
         actions: []
