@@ -12,7 +12,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/g1278.png
           altText: Maria Walters
           styles:
             self:
