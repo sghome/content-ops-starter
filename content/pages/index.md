@@ -60,6 +60,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderWidth: 0
+            borderStyle: none
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
