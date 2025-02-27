@@ -17,6 +17,7 @@ sections:
           styles:
             self:
               borderRadius: full
+              borderWidth: 0
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
